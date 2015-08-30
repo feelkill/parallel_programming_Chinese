@@ -1,4 +1,4 @@
-法律声明
+[法律声明](01_legal_statement.md)
 
 1. [如何使用此书](chapter01_how_to_use_this_book/sec00.md)<br />
 1.1 [路标](chapter01_how_to_use_this_book/sec01_roadmap.md)<br />
