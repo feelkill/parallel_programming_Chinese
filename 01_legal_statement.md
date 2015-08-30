@@ -17,3 +17,7 @@
 一个文件的注释头中。如果您不能确认特定代码的授权条款,则应当假设它仅仅遵循 GPLv2。
 
 Combined work © 2005-2014 by Paul E. McKenney
+
+<br />
+下一节：[如何使用这本书](chapter01_how_to_use_this_book/sec00.md)
+<br />
