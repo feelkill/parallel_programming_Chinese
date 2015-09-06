@@ -7,7 +7,7 @@
 1.4 [例子源代码](chapter01_how_to_use_this_book/sec04_sample_source_code.md)<br />
 1.5 [这是谁的书](chapter01_how_to_use_this_book/sec05_whose_book_is_this.md)<br />
 
-2. 简介
+2. [简介](chapter02_introduction/sec00.md)
 2.1 导致并行编程困难的历史原因
 2.2 并行编程的目标
 2.2.1 性能
